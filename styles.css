@@ -1,7 +1,7 @@
 
 
 .box {
-  width: 1200px;
+  width: 1400px;
   height: 600px;
 }
 
@@ -10,5 +10,11 @@ img {
   width: 430px;
 }
 
+  <div class="box">
+<img src="tree_lights.gif" alt="animated xmas tree with lights" class="cover">
 
+<img src="xmas_candy.gif" alt="animated xmas tree that looks like candy" class="cover">
+
+<img src="xmas_volcano.gif" alt="animated xmas tree that turns into a volcano" class="cover">
+</div>
 
