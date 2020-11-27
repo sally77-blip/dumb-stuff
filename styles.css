@@ -9,3 +9,11 @@ img {
   height: 600px;
   width: 430px;
 }
+
+  <div class="box">
+<img src="tree_lights.gif" alt="animated xmas tree with lights" class="cover"></div>
+  <div class="box">
+<img src="xmas_candy.gif alt=""animated xmas tree that looks like candy" class="contain"></div>
+  <div class="box">
+<img src=xmas_volcano.gif" alt=""animated xmas tree that turns into a volcano" class="contain"></div>
+</div>
