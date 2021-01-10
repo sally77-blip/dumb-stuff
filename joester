@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body bgcolor="#000000">
+  <head> <link rel="stylesheet" href="styles.css"></head>
+
+<div class="container">
+  <div class="row">
+  <img src="black_sheep_panel2.jpg" alt="empty black panel not visible">
+  <img src="Tresl.gif" alt="hockey player skates up and says happy birthday">
+  <img src="black_sheep_panel2.jpg" alt="empty black panel not visible">
+  </div>
+</div>
+
+</body>
+</html>
